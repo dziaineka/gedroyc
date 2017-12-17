@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="utf-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
 	<ShortName>DataLife Engine Demo</ShortName>
 	<Description>DataLife Engine Search</Description>
@@ -14,6 +14,6 @@
 	<SyndicationRight>open</SyndicationRight>
 	<AdultContent>false</AdultContent>
 	<Language>ru-ru</Language>
-	<OutputEncoding>windows-1251</OutputEncoding>
-	<InputEncoding>windows-1251</InputEncoding>
+	<OutputEncoding>utf-8</OutputEncoding>
+	<InputEncoding>utf-8</InputEncoding>
 </OpenSearchDescription>
